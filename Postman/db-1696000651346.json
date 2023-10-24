@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Postman",
+      "description": "Postman Course from scratch"
+    },
+    {
+      "id": 2,
+      "title": "selenium",
+      "description": "Selenium Course from scratch"
+    },
+    {
+      "id": 3,
+      "title": "Cypress",
+      "description": "Cypress Course from scratch"
+    },
+    {
+      "title": "Python",
+      "description": "Python Course from scratch",
+      "id": 4
+    },
+    {
+      "email": "olivier@mail.com",
+      "password": "bestPassw0rd",
+      "id": 5
+    },
+    {
+      "title": "Python",
+      "description": "Python Course from scratch",
+      "id": 6
+    },
+    {
+      "title": "Python",
+      "description": "Python Course from scratch",
+      "id": 7
+    }
+  ],
+  "users": []
+}

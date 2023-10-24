@@ -1,0 +1,36 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Postman",
+      "description": "Postman Course from scratch"
+    },
+    {
+      "id": 2,
+      "title": "selenium",
+      "description": "Selenium Course from scratch"
+    },
+    {
+      "id": 3,
+      "title": "Cypress",
+      "description": "Cypress Course from scratch"
+    }
+  ],
+  "users": [
+    {
+      "email": "oliver@mail.com",
+      "password": "$2a$10$IyK7i7vPlHZaRS1FWE5GN.YDPBKB65K4ohHQTHLJhDGyKqtzvai1e",
+      "id": 1
+    },
+    {
+      "email": "oliver1@mail.com",
+      "password": "$2a$10$0DSfqhsq6lRG59qTnfBlBOoFyaW.zJ.GS/vBgzsU1z30Xy5jKQRLW",
+      "id": 2
+    },
+    {
+      "email": "oliver2@mail.com",
+      "password": "$2a$10$d3SbWRJTH3IdhPB4lfOOvOQ9wR1thBzH/lSK7C5DfMaY8XCn7DIFu",
+      "id": 3
+    }
+  ]
+}
